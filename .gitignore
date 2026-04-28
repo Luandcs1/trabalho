@@ -1,0 +1,9 @@
+*.o
+*.out
+*.exe
+hanoi
+build/
+.vscode/
+*.log
+*.tmp
+.DS_Storegit
